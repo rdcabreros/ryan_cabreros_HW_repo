@@ -1,0 +1,10 @@
+homework4
+
+Window 1: used for the main shell for dataset and find/regex work
+
+Window 2: used for pipelines experiments
+
+Pane split: used top pane for editing reports, bottom pane for running commands
+
+I learned how tmux works to keep my work alive even if I disconnect.
+

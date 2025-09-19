@@ -1,0 +1,14 @@
+Permissions demo
+Made: 20215-9-19
+Folder: hw04/share
+drwxrwx--- 2 ryanc jelenag 4096 Sep 19 04:10 share
+total 4
+-rwxrwx--- 1 ryanc jelenag    0 Sep 19 04:10 file1.txt
+-rwxrwx--- 1 ryanc jelenag    0 Sep 19 04:10 file2.txt
+drwxrwx--- 2 ryanc jelenag 4096 Sep 19 04:10 subdir
+total 4
+50463861 -rwxrwx--- 2 ryanc jelenag    0 Sep 19 04:10 file1_hard.txt
+50463861 -rwxrwx--- 2 ryanc jelenag    0 Sep 19 04:10 file1.txt
+50463863 lrwxrwxrwx 1 ryanc jelenag   15 Sep 19 04:12 file2_symlink.txt -> share/file2.txt
+50463862 -rwxrwx--- 1 ryanc jelenag    0 Sep 19 04:10 file2.txt
+50585610 drwxrwx--- 2 ryanc jelenag 4096 Sep 19 04:10 subdir

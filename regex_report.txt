@@ -1,0 +1,14 @@
+#Count lines containing "great" or "greatest"
+
+grep -E -c "great(est)?" amazon_reviews_10k_random_hw4.tsv
+
+#product titles starting with uppercase letter
+cut -f6 amazon_reviews_10k_random_hw4.tsv | grep -E "^[A-Z]" | head
+
+#titles ending with a digit
+cut -f6 amazon_reviews_10k_random_hw4.tsv | grep -E "[0-9]$" | wc -l
+
+#lines not mentioning "return" case-insensitive
+grep -vi return amazon_reviews_10k_random_hw4.tsv | wc -l
+
+

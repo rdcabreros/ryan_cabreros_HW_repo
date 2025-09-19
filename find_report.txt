@@ -1,0 +1,32 @@
+# globbing warmup
+
+touch notes.txt note1.txt noteA.md .bashrc fake.tsv
+ls note?.txt
+
+# output: note1.txt notes.txt
+# '?' matches exactly one character before .txt
+
+#find all *.tsv under hw04
+find .-name "*.tsv
+#output snippet: ./amazon_reviews_10k_random_hw4.tsv ./fake.tsv
+
+#find files >=1MB
+find . -size +1M
+#output: ./amazon_reviews_10k_random_hw4.tsv
+
+#find files modified in last 1 day
+find . -mtime -1
+#output: ./amazon_reviews_10k_random_hw4.tsv
+
+#-exec vs xargs demo
+
+mkdir -p log
+unzip -p /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip | head -1000 > logs/a.log
+unzip -p /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip | head -1000 > logs/b.log
+unzip -p /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip | head -1000 > logs/c.log
+
+#count lines with -exec
+find logs -name "*.log" -exec wc -l {} \;
+
+#count lines with xargs
+find logs -name "*.log" | xargs wc -l

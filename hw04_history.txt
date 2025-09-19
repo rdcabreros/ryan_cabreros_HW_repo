@@ -1,0 +1,789 @@
+passwd
+passw
+passwd
+dfsdfsdfsf
+date
+updtime
+uptime
+date
+df
+free
+exit
+git --version
+xcode-select --install
+git --version
+git config --global user.name "Ryan Cabreros"
+git config --global user.name Ryan Cabreros
+git config --gloval user.email "ryan.cabreros@sjsu.edu"
+git config --global user.name "Ryan Cabreros"
+git config --global user.email "ryan.cabreros@sjsu.edu"
+git config --global init.defaultBranch main
+git config --global pull.rebase true
+git config --global core. autocrlf input
+git config --global core.autocrlf input
+git config.autocrlf
+git config core.autocrlf
+git config user.name
+git config user.email
+git config init.defaultBranch
+git config pull.rebase
+~/.gitconfig
+pwd
+cd ..
+cd .
+cd ..
+pwd
+cd ..
+pwd
+cs /mnt/scratch/CS131_jelenag/
+cs /mnt/scratch/CS131_jelenag
+cd /mnt/scratch/CS131_jelenag
+ls amazon_reviews_multilingual_US_v1_00.tsv.zip 
+uzip -p ls amazon_reviews_multilingual_US_v1_00.tsv.zip | head -5
+uzip -p ls amazon_reviews_multilingual_US_v1_00.tsv.zip head -5
+uznip -p ls amazon_reviews_multilingual_US_v1_00.tsv.zip | head -5
+unzip -p ls amazon_reviews_multilingual_US_v1_00.tsv.zip head -5
+unzip -p ls amazon_reviews_multilingual_US_v1_00.tsv.zip | tail -5
+unzip -p amazon_reviews_multilingual_US_v1_00.tsv.zip | tail -5
+unzip -p amazon_reviews_multilingual_US_v1_00.tsv.zip | wc -1
+unzip -p amazon_reviews_multilingual_US_v1_00.tsv.zip wc -1
+unzip -p amazon_reviews_multilingual_US_v1_00.tsv.zip | wc -l
+pwd
+ unzip -p amazon_reviews_multilingual_US_v1_00.tsv.zip | tail -5
+ unzip -p amazon_reviews_multilingual_US_v1_00.tsv.zip | head -50 > ~/amazon_reviews_50.tsv
+ls
+ls ~
+grep "greatest" amazon_reviews_multilingual_US_v1_00_10k.tsv |wc -1
+grep "greatest" amazon_reviews_multilingual_US_v1_00_10k.tsv |wc -l
+grep "greatest" amazon_reviews_multilingual_US_v1_00_10k.tsv |wc l
+grep "greatest" amazon_reviews_multilingual_US_v1_00_10k.tsv |wc -l
+/greatest
+grep "greatest" amazon_reviews_multilingual_US_v1_00_10k.tsv |wc -l
+grep "greatest" amazon_reviews_multilingual_US_v1_00_10k.tsv | wc -l
+grep "greatest" amazon_reviews_multilingual_US_v1_00_10k.tsv |less
+less
+grep "greatest" amazon_reviews_multilingual_US_v1_00_10k.tsv |less
+grep -i "greatest" amazon_reviews_multilingual_US_v1_00_10k.tsv |wc -l
+grep -i "greatest" amazon_reviews_multilingual_US_v1_00_10K.tsv |wc -l
+grep -ic "greatest" amazon_reviews_multilingual_US_v1_00_10K.tsv |wc -l
+grep -ic "greatest" amazon_reviews_multilingual_US_v1_00_10K.tsv
+grep -vi "return" amazon_reviews_multilingual_US_v1_00_10K.tsv | less
+cd ~
+ls 
+ls
+vi amazon_reviews_50.tsv 
+less
+vi amazon_reviews_50.tsv 
+quit
+exit
+free
+uptime
+pwd
+ls
+pwd
+ unzip -p amazon_reviews_multilingual_US_v1_00.tsv.zip | tail -5
+vi amazon_reviews_50.tsv 
+ssh-keygen -t ed25519 -C "ryan.cabreros@sjsu.edu"
+cat ~/.ssh/id_ed25519.pub
+ssh -T git@github.com
+pwd
+ls
+ls -l
+ls -a
+cat amazon_reviews_50.tsv 
+less app.js
+less ap
+less ap amazon_reviews_50.tsv 
+q
+ssh -T git@github.com
+pwd
+ls
+cd amazon_reviews_50.tsv
+head amazon_reviews_50.tsv 
+pwd
+ls
+mkdir homework_assignments
+cd homework_assignments/
+mkdir -p homework_assignments/hw2
+mv ryanc_h2.log homework_assignments/hw2/
+cat homework_assignments/hw2/ryanc_h2.log 
+vi ryanc_h2.log
+exit
+script ryanc_h2.log
+script ryals grep h2.log
+ls -l
+mv ryals ryan_h2.log
+pwd
+ls
+rm -r ryan_h2.log
+ls
+cd homework_assignments/
+exit
+pwd
+ls
+script ryanc_h2.log
+mkdir hw2
+mv ../ryan_h2.log hw2/
+mv ../ryanc_h2.log hw2/
+ls
+mv ryanc_h2.log homework_assignments/hw2/
+ls homework_assignments/hw2/
+more homework_assignments/hw2/ryanc_h2.log 
+vi homework_assignments/hw2/ryanc_h2.log 
+ls homework_assignments/hw2/
+cat homework_assignments/hw2/ryanc_h2.log 
+scp -r jelenag@172.20.25.9:/mnt/scratch/CS131_jelenag/students/jelenag/homework_assignments/hw2./
+scp -r ryanc@172.20.25.9:/mnt/scratch/CS131_jelenag/students/jelenag/homework_assignments/hw2./
+exit
+pwd
+ls
+mkdir homework_assignments/
+rm -r homework_assignments
+ls
+exit
+script ryanc_h2.log
+exit
+pwd
+ls
+mkdir homework_assignments
+cd homework_assignments/
+exit
+script ryanc_h2.log
+vi ryanc_h2.log 
+mv ryanc_h2.log hw2/
+exit
+cd ~
+ls
+ls homework_assignments/hw2
+mkdir -p homework_assignments/hw2
+mv ryanc_h2.log homework_assignments/hw2/
+pwd
+ls
+cd homework_assignments/
+ls
+cd hw2/
+ls
+rm -r homework_assignments hw2
+pwd
+exist
+exit
+pwd
+ls
+mkdir homework_assignments
+cd homework_assignments/
+exit
+pwd
+lsd
+ls
+rm -r homework_assignments/
+rm -r hw2/
+mkdir -p homework_assignments/hw2
+cd homework_assignments/
+script ryanc_h2.log
+mv ryanc_h2.og hw2/
+mv ryanc_h2.log hw2/
+pwd
+cat ryanc_h2.log
+cd hw2
+cat ryanc_h2.log 
+nano ryanc_h2.log 
+cat ryanc_h2.log
+vi ryanc_h2.log 
+cat ryanc_h2.log 
+pwd
+ls
+cd ryanc_h2.log
+ls-r
+ls -r
+cd ..
+cd homework_assignments/
+ls
+cd h
+cd homework_assignments/
+ls
+pwd
+ls
+cd hw2
+cd ..
+cd hw2/
+ls
+pwd
+cd ..
+pwd
+ls
+mv hw2 homework_assignments/
+ls -R homework_assignments/
+pwd
+cd homework_assignments/
+ls
+cd hw2
+ls
+cat ryanc_h2.log 
+exit
+ls -R /mnt/scratch/CS131_jelenag/students/ryanc/homework_assignments
+mv /mnt/scratch/CS131_jelenag/students/ryanc/homework_assignments/homework_assignments/hw2/ /mnt/scratch/CS131_jelenag/students/ryanc/homework_assignments/
+rm -r /mnt/scratch/CS131_jelenag/students/ryanc/homework_assignments/homework_assignments/
+ls -R /mnt/scratch/CS131_jelenag/students/ryanc/homework_assignments/
+exit
+ssh -T git@github.com
+cd ~
+mkdir -p cs131-f25
+cd cs131-f25
+git clone git@github.com:sjsu-cs131-f25/starter-repo.git
+cd starter-repo/
+git remote -v
+ls
+git checkout main
+git pull
+git checkout -b intro/ryan-c
+vi students.md 
+cat students.md 
+git add students.md
+git commit -m "added Ryan Cabreros to students.md"
+git push -u origin intro/ryan-c 
+pwd
+cd students
+cd /mnt/scratch/CS131_jelenag/students/
+ls
+git checkout main
+cd cs131-f25
+git clone git@github.com:sjsu-cs131-f25/starter-repo.git
+git checkout main
+git pull
+git remote -v
+cd ~/path/to/starter-repo
+pwd
+cd ~/path/to/starter-repo
+pwd
+ls
+ls ~/Desktop
+exit
+cd /mnt/scratch/CS131_jelenag/students/ryanc/starter-repo
+cd ~
+pwd
+ls
+cd /mnt/scratch/CS131_jelenag/students/ryanc/cs131-f25/
+ls
+cd /mnt/scratch/CS131_jelenag/students/ryanc/cs131-f25/starter-repo/
+git checkout main
+git pull
+vim students.md 
+cat students.md 
+git checkout intro/ryan-c 
+cat student.md 
+cat students.md 
+git log --oneline
+pwd
+ls
+head amazon_reviews_50.tsv 
+vim head amazon_reviews_50.tsv 
+pwd
+ls
+cd cs131-f25/
+ls
+cd starter-repo/
+ls
+cd students.md
+ls students.md
+cat students.md 
+cs ..
+cd ..
+pwd
+ls
+cd starter-repo/
+ls
+cat student.md
+cd /mnt/
+exit
+pwd
+ls
+pwd
+ls
+cd head
+cat head
+ls head
+cd head
+cd am
+pwd
+ls head
+head amazon_reviews_50.tsv 
+vi run_test.sh
+bash run_test.sh 
+vi run_test.sh 
+bash run_test.sh 
+bash -x run_test.sh 
+exit
+unzip /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip 
+ls -lh amazon_reviews_multilingual_US_v1_00.tsv 
+(head -n 1 amazon_reviews_multilingual_US_v1_00.tsv && tail -n +2 amazon_reviews_multilingual_US_v1_00.tsv | shuf -n 10000) > amazon_reviews_multilingual_US_v1_00.tsv 
+wc -1 amazon_reviews_10k_random.tsv
+wc -l amazon_reviews_10k_random.tsv
+pwd
+ls -lh
+rm amazon_reviews_multilingual_US_v1_00.tsv 
+exit
+unzip /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip
+ls -lh amazon_reviews_multilingual_US_v1_00.tsv 
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+(head -n 1 amazon_reviews_multilingual_US_v1_00.tsv && tail -n +2 amazon_reviews_multilingual_US_v1_00.tsv | shuf -n 10000) > amazon_reviews_10k_random.tsv
+wc -l amazon_reviews_10k_random.tsv > counts.txt
+echo "includes header" >> counts.txt
+tail -n +2 amazon_reviews_10k_random.tsv | wc -l >> counts.txt
+echo "excludes header" >> counts.txt
+cat counts.txt
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f8 > stars.txt
+sort stars.txt | uniq -c | sort -nr > hist_star_rating.txt
+cat hist_star_rating.txt
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f2 | sort | uniq -c | sort -nr | head -10 > top_customers.txt
+cat top_customers.txt
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f4,6 | sort | uniq -c | sort -nr | head -10 > top_products.txt
+cat top_products.txt 
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f7 | sort | uniq -c | sort -nr > hist_categories.txt
+cat hist_categories.txt 
+exit
+cd ~
+git clone git@github.com:sjsu-cs131-f25/ryan_cabreros_HW_repo.git
+cd ryan_cabreros_HW_repo/
+mkdir hw03
+ls -R
+mkdir -p /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03/
+script hw03_session.txt
+rm -f amazon_reviews_multilingual_US_v1_00.tsv
+script hw03_session.txt 
+vi README.md
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+history > hw03_history.txt
+ls -l
+cat hw03_history.txt | head
+ls -l hw03/hw03_history.txt
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+history > hw03_history.txt
+ls -l hw03_history.txt 
+head hw03_history.txt 
+less hw03_history.txt 
+history > hw03_history.txt
+less hw03_history.txt 
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+grep -E "^[0-9]+  " hw03_session.txt > hw03_history.txt 
+head hw03_history.txt 
+ls -l hw03_session.txt 
+grep -E "^[0-9]+  " hw03_session.txt > hw03_history.txt 
+head hw03_history.txt 
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+ls -l
+rm -f hw03_session.txt hw03_history.txt counts.txt hist_star_rating.txt top_customers.txt top_products.txt hist_categories.txt README.md amazon_reviews_10k_random.tsv
+cd ..
+rm -rf hw03
+mkdir hw03
+cd hw03
+ls
+cd ~
+ls
+cd head
+vi head
+rm head
+ls
+cat run_test.sh 
+rm run_test.sh 
+cat ryan_cabreros_HW_repo/
+cd ryan_cabreros_HW_repo/
+ls
+cd hw03/
+ls
+cat ryan_cabreros_HW_repo
+cd hw03
+ls
+cat hw03
+cd..
+cd ..
+pwd
+cd hw03/
+ls
+cd ~/ryan_cabreros_HW_repo
+mkdir -p hw03
+ls -l
+cp ~/hw03/* hw03/
+cp ~/hw03/* hw03/ls -l /mnt/scratch/CS131_jelenag/students/ryanc/hw03/
+cp ~/hw03/* hw03/ls -l /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+exit
+gunzip -c /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip > amazon_reviews_multilingual_US_v1_00.tsv
+(head -n 1 amazon_reviews_multilingual_US_v1_00.tsv && tail -n +2 amazon_reviews_multilingual_US_v1_00.tsv | shuf -n 10000) > amazon_reviews_10k_random.tsv
+unzip /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip
+ls -l
+(head -n 1 amazon_reviews_multilingual_US_v1_00.tsv && tail -n +2 amazon_reviews_multilingual_US_v1_00.tsv | shuf -n 10000) > amazon_reviews_10k_random.tsv
+ls -l amazon_reviews_10k_random.tsv 
+wc -l amazon_reviews_10k_random.tsv > counts.txt
+tail -n +2 amazon_reviews_10k_random.tsv | wc -l >> counts.txt 
+cut -f8 amazon_reviews_10k_random.tsv | tail -n +2 | sort | uniq -c | sort -nr > hist_star_rating.txt
+cat hist_star_rating.txt 
+cut -f2 amazon_reviews_10k_random.tsv | tail -n +2 | sort | uniq -c | sort -nr | head -n 10 > top_customers.txt
+cat top_customers.txt 
+cut -f4,6 amazon_reviews_10k_random.tsv | tail -n +2 | sort | uniq -c | sort -nr | head -n 10 > top_products.txt
+cat top_products.txt 
+cut -f7 amazon_reviews_10k_random.tsv | tail -n +2 | sort | uniq -c | sort -nr > hist_categories.txt
+cat hist_categories.txt 
+vi README.md
+cd hw03
+ls -l
+mkdir hw03
+cd hw03
+ls -l
+cp /mnt/scratch/CS131_jelenag/students/ryanc/hw03/hw03_session.txt .
+cp /mnt/scratch/CS131_jelenag/students/ryanc/hw03/hw03_session.txt
+ls -l /mnt/scratch/CS131_jelenag/student/ryanc/hw03
+exit
+head amazon_reviews_10k_random.tsv 
+wc -l amazon_reviews_10k_random.tsv 
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+total_lines=$(wc -l < amazon_reviews_10k_random.tsv)
+data_lines=$((total_lines - 1))
+echo "Header included in first line" > counts.txt
+echo "total lines including header: $total_lines" >> counts.txt
+echo "total data lines not including header: $data_lines" >> counts.txt 
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+ls -l counts.txt 
+cat counts.txt 
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+cut -f8 amazon_reviews_10k_random.tsv | sort | uniq -c | sort -nr > hist_star_rating.txt
+cat hist_star_rating.txt 
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+cut -f2 amazon_reviews_10k_random.tsv | sort | uniq -c | sort -nr | head -10 > top_customers.txt
+cat top_customers.txt 
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+cut -f4,6 amazon_reviews_10k_random.tsv | sort } uniq -c | sort -nr | head -10 > top_products.txt
+cut -f4,6 amazon_reviews_10k_random.tsv | sort | uniq -c | sort -nr | head -10 > top_products.txt
+cat top_products.txt 
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+cut -f7 amazon_reviews_10k_random.tsv | sort | uniq -c | sort -nr > hist_categories.tsv
+cat hist_categories.tsv 
+vi README.md
+history > hw03_history.txt
+head hw03_history.txt 
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+history > hw03_history.txt
+ls -l hw03_history.txt 
+head hw03_history.txt 
+cd ~
+rm -rf /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+cd ~/ryan_cabreros_HW_repo/
+rm -rf hw03
+exit
+cd ~ 
+git@github.com:sjsu-cs131-f25/ryan_cabreros_HW_repo.git
+git clone git@github.com:sjsu-cs131-f25/ryan_cabreros_HW_repo.git
+rm -rf ~/ryan_cabreros_HW_repo
+fatal: destination path 'ryan_cabreros_HW_repo' already exists and is not an empty directory.
+git clone git@github.com:sjsu-cs131-f25/ryan_cabreros_HW_repo.git
+cd ~/ryan_cabreros_HW_repo
+mkdirhw03
+mkdir hw03
+ls -l
+script hw03_session.txt
+rm -rf ~/hw03
+ls -l ~/hw03
+ls -l /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip 
+mkdir -p ~/hw03
+cd ~/hw03
+unzip /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip > amazon_reviews_multilingual_US_v1_00.tsv
+ls -l amazon_reviews_multilingual_US_v1_00.tsv
+(head -n 1 amazon_reviews_multilingual_US_v1_00.tsv && tail -n +2 amazon_reviews_multilingual_US_v1_00.tsv | shuf -n 10000) > amazon_reviews_10k_random.tsv
+mkdir -p /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+script hw03_session.txt
+cd hw03_session.txt
+ls -l
+cd~
+ls
+cd ~
+ls
+rm ryan_cabreros_HW_repo/
+rm -r ryan_cabreros_HW_repo/
+ls
+exit
+mkdir -p /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+script hw03_session.txt
+unzip -p /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip > amazon_reviews_full.tsv
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+cd /mnt/scratch/CS131_jelenag/
+ls -lh
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+head -n 1 /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv > amazon_reviews_10k_random.tsv
+tail -n +2 /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv | shuf -n 10000 >> amazon_reviews_10k_random.tsv 
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+echo "Total lines including header:" > counts.txt
+wc -l amazon_reviews_10k_random.tsv >> counts.txt
+echo "Total lines excluding header:" >> counts.txt
+tail -n +2 amazon_reviews_10k_random.tsv | wc -l >> counts.txt
+head amazon_reviews_10k_random.tsv
+cat counts.txt
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f8
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f8 | sort | uniq -c
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f8 | sort | uniq -c | sort -nr > hist_star_rating.txt
+cat hist_star_rating.txt 
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f2
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f2 | sort | uniq -c
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f2 | sort | uniq -c | sort -nr
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f2 | sort | uniq -c | sort -nr | head -10 > top_customers.txt
+cat top_customers.txt 
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f4,6
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f4,6 | sort | uniq -c
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f4,6 | sort | uniq -c | sort -nr
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f4,6 | sort | uniq -c | sort -nr | head -10 > top_products.txt
+cat top_products.txt 
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f7
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f7 | sort | uniq -c
+tail -n +2 amazon_reviews_10k_random.tsv | cut -f7 | sort | uniq -c | sort -nr > hist_categories.txt
+cat hist_categories.txt 
+vi README.md
+history > hw03_history.txt
+echo $SHELL
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw03
+history > hw03_history.txt
+ls -lh hw03_history.txt 
+cat hw03_history.txt | head
+cat hw03_history.txt 
+cd ~
+git clone git@github.com:sjsu-cs131-f25/ryan_cabreros_HW_repo.git
+cd ryan_cabreros_HW_repo/
+mkdir hw03
+cp /mnt/scratch/CS131_jelenag/students/ryanc/hw03/* hw03/
+git add hw03/
+git commit -m "HW03"
+git push -u origin main
+git rm --cached hw03/amazon_reviews_full.tsv 
+git commit -m "Remove full TSV"
+git push -u origin main
+git status
+ls hw03
+rm hw03/amazon_reviews_full.tsv 
+ls hw03/
+git add hw03/
+git commit -m "removed full TSV; keeping only required hw03 files"
+git branch --unset-upstream
+git push -u origin main
+git status
+git rm -- hw03/amazon_reviews_10k_random.tsv 
+git commit -m "Removed 10k sample""
+git commit -m "Removed 10k sample"
+git push -u origin main
+git status
+git push -u origin main
+git status
+git commit -m "Remove 10k sample"
+git status
+git ls-files hw03
+git status
+git log origin/main..HEAD --online
+git log origin/main..HEAD --oneline
+git branch --show-current
+git log --oneline -5
+git push -u origin main
+cd ~/ryan_cabreros_HW_repo/
+git status
+git ls-files
+git log --oneline -5
+ls -l hwo3
+ls -l hw03
+git status
+git push -u origin main
+git rev-list --objects --all |  git rev-list --objects --all | \
+git rev-list --objects --all | 
+ls -lh hw03
+git add hw03
+git commit -m "HW03"
+git push -u origin main
+git status
+cd ~/ryan_cabreros_HW_repo/
+git status
+git log --oneline -5
+git ls-files
+head hw03/hw03_session.txt 
+module load git
+git filter-repo --version
+git filter-branch --force --index-filter   "git rm --cached --ignore-unmatch hw03/amazon_reviews_full.tsv"   --prune-empty --tag-name-filter cat -- --all
+FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter   "git rm --cached --ignore-unmatch hw03/amazon_reviews_full.tsv"   --prune-empty --tag-name-filter cat -- --all
+git log --stat | grep amazon_reviews_full.tsv
+git push origin main --force
+tmux ls
+tmux new-session -s homework3
+cat amazon_header.txt
+pwd
+cd /mnt/scratch/CS131_jelenag/
+cat amazon_header.txt 
+tmux
+tmux attach -t homework3
+tmux ls
+tmux new-session -s homework3
+tmux ls
+cat tmux
+tmux ls
+cat amazon_reviews_50.tsv 
+cat amazon_header.tsv
+tmux attach-session homework3
+ls /mnt/scratch/CS131_jelenag/quiz_amazon_reviews.tsv 
+head -5 /mnt/scratch/CS131_jelenag/quiz_amazon_reviews.tsv
+awk -F'\t' 'NR>1 {sum[$2]+=$3} END {for (c in sum) print c, sum[c]}' /mnt/scratch/CS131_jelenag/quiz_amazon_reviews.tsv | sort -k2 -nr | head -1
+awk -F'\t' 'NR>1 {count[$7]++} END {for (c in count) print c, count[c]}' /mnt/scratch/CS131_jelenag/quiz_amazon_reviews.tsv | sort -k2 -nr | head -1
+marketplacecustomer_idreview_idproduct_id...product_category ...
+cut -f2 /mnt/scratch/CS131_jelenag/quiz_amazon_reviews.tsv | tail -n +2 | sort -u | wc -l
+cut -f2 /mnt/scratch/CS131_jelenag/quiz_amazon_reviews.tsv | grep -v "^customer_id$" | sort -u | wc -l
+cut -f2 /mnt/scratch/CS131_jelenag/quiz_amazon_reviews.tsv | grep -v "^customer_id$" | sort | uniq -c | sort -nr | head -1
+cat /mnt/scratch/CS131_jelenag/quiz_amazon_reviews.tsv 
+cut -f2 /mnt/scratch/CS131_jelenag/quiz_amazon_reviews.tsv | tail -n +2 | sort -u | wc -l
+ls amazon_*.tsv
+pwd
+cd /mnt/scratch/CS131_jelenag/
+pwd
+ls amazon_*.tsv
+ls amazon_??.tsv
+ls amazon_*_??.tsv
+ps aux
+echo $
+top
+ls * .txt
+cp /mnt/scratch/CS131_jelenag/reviews.tsv ~/
+ls *.txt
+ls * .txt
+ls ???.txt
+ls ??? .txt
+ls ??? . txt
+ls [a-z]*
+ls .[b]ashrc
+ls .[ba]ashrc
+ls .[!c]ashrc
+cp /mnt/scratch/CS131_jelenag/reviews.tsv ~/
+ls *.txt
+ls *.tsv
+ls ???.tsv
+ls ???.txt
+ls
+ls ???????.tsv
+ls ../../*.txt
+ls ../../????.txt
+find . -type f -name ".txt"
+find $HOME -size +1G
+find . -mtime -1
+find . -mmin -10
+find /etc -type f -name "*.conf"
+find . -type d
+mkdir logs
+shuf reviews.tsv | split -l 1000 --additional-suffix=.tmp - sample_
+shuf reviews.tsv | split -l 1000 --additional-suffix=.log - logs/log_
+find . -name "*.tmp" - exec rm {} |;
+find . -name "*.tmp" - exec rm {} \;
+find . -name "*.tmp" -exec rm {} \;
+find logs -name "*.log" -exec wc -l {}find logs -name "*.log" -exec wc -l {} find logs -size +650k | xargs rm -rf
+find logs -size +650k | xargs rm -rf
+grep "data" reviews.tsv 
+grep -i error reviews.tsv 
+grep -E error|fail" reviews.tsv
+grep "best" reviews.tsv 
+grep "best" reviews.tsv 
+find logs -size +650k | xargs rm -rf
+find logs -name "*.log" | xargs wc -l
+grep "sports" reviews.tsv 
+grep "terrible" reviews.tsv 
+grep "really bad" reviews.tsv 
+touch notes.txt note1.txt noteA.md .bashrc fake.tsv
+ls note?.txt
+find . -name "*.tsv"
+find . -size +1M
+find . -size +1K
+find . -size +1k
+find . -mtime -1
+mkdir logs
+unzip -p /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip | head -1000 > logs/a.log
+unzip -p /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip | head -1000 > logs/b.log
+unzip -p /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip | head -1000 > logs/c.log
+find logs -name "*.log" -exec wc -l {} \;
+find logs -name "*.log" | xargs wc -l
+(unzip -p /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip | head -n1  && unzip -p /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip | tail -n +2 | shuf -n 10000) 
+(unzip -p /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip | head -n1 \ && unzip -p /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip | tail -n +2 | shuf -n10000) \ > amazon_reviews_10k_random_hw4.tsv
+(unzip -p /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip | head -n1 && unzip -p /mnt/scratch/CS131_jelenag/amazon_reviews_multilingual_US_v1_00.tsv.zip | tail -n +2 | shuf -n10000) > amazon_reviews_10k_random_hw4.tsv
+ls -lh amazon_reviews_10k_random_hw4.tsv
+head amazon_reviews_10k_random_hw4.tsv 
+wc -l amazon_reviews_10k_random_hw4.tsv 
+pwd
+grep -E -c "great(est)?" amazon_reviews_10k_random_hw4.tsv 
+cut -f6 amazon_reviews_10k_random_hw4.tsv | grep -E "^[A-Z]"
+cut -f6 amazon_reviews_10k_random_hw4.tsv | grep -E "[0-9]$" | wc -l
+grep -vi return amazon_reviews_10k_random_hw4.tsv | wc -l
+ls /mnt/scratch/CS131_jelenag/students/ryanc/hw04
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw04
+pwd
+ls -lh
+nano tmux_notes.txt
+ls -lh tmux_notes.txt 
+nano find_report.txt
+nano regex_report.txt
+ls -lh
+cat tmux_notes.txt 
+cat find_report.txt 
+cat regex_report.txt 
+nano pipelines_report.txt
+cut -f8 amazon_reviews_10k_random_hw4.tsv | sort | uniq -c | sort -nr
+echo -e "\n# Star rating histogram (column 8) - most frequent first" >> pipelines_report.txt 
+echo "cut -f8 amazon_reviews_10k_random_hw4.tsv | sort | uniq -c | sort -nr" >> pipelines_report.txt
+cut -f8 amazon_reviews_10k_random_hw4.tsv | sort | uniq -c | sort -nr >> pipelines_report.txt
+ls pipelines_report.txt 
+cat pipelines_report.txt 
+cut -f5 amazon_reviews_10k_random_hw4.tsv | sort | uniq -c | sort -nr | head -10 >> pipelines_report.txt
+cut -f5,6 amazon_reviews_10k_random_hw4.tsv | sort > pid_title.tsv
+join -1 2 -2 1 <(cut -f5 amazon_reviews_10k_random_hw4.tsv | sort | uniq -c | sort -nr | head -10) pid_title.tsv >> pipelines_report.txt
+tail -n +2 amazon_reviews_10k_random_hw4.tsv | head -n 5000 | cut -f5 | sort > first5k_pids.txt
+tail -n +5002 amazon_reviews_10k_random_hw4.tsv | cut -f5 | sort > last5k_pids.txt
+echo -e "\nFirst 5K vs Last 5K product IDs (columns: only first / only second / both):" >> pipelines_report.txt
+comm first5k_pids.txt last5k_pids.txt >> pipelines_report.txt
+echo -e "\nQuick I/O sanity checks:" >> pipelines_report.txt
+echo "First line" > example.txt
+echo "Second line" >> example.txt
+echo "Overwrite vs append example:" >> pipelines_report.txt
+cat example.txt >> pipelines_report.txt
+ls nonexistentfile 2> err.txt
+ls nonexistentfile &> out_err.txt
+echo -e "\nstderr only (err.txt):" >> pipelines_report.txt
+cat err.txt >> pipelines_report.txt
+echo -e "\nboth stdout+stderr (out_err.txt):" >> pipelines_report.txt
+cat out_err.txt >> pipelines_report.txt
+cat out_err.txt >> pipelines_report.txt 
+echo "hello testing" | tee hello.txt >> pipelines_report.txt
+less pipelines_report.txt 
+pwd
+ls -lh
+cd /mnt/scratch/CS131_jelenag/students/ryanc/hw04
+mkdir -p ids/CUSTOMERS
+mkdir -p ids/PRODUCTS
+cut -f2 amazon_reviews_10k_random_hw4.tsv | sort | uniq | head -10
+cut -f5 amazon_reviews_10k_random_hw4.tsv | sort | uniq | head -10
+grep -F "10000166" amazon_reviews_10k_random_hw4.tsv | cut -f8 > ids/CUSTOMERS/10000166.txt
+grep -F "10004129" amazon_reviews_10k_random_hw4.tsv | cut -f8 > ids/CUSTOMERS/10004129.txt
+grep -F "10009763" amazon_reviews_10k_random_hw4.tsv | cut -f8 > ids/CUSTOMERS/10009763.txt
+grep -F "100047036" amazon_reviews_10k_random_hw4.tsv | cut -f8 > ids/PRODUCTS/100047036.txt
+grep -F "100512538" amazon_reviews_10k_random_hw4.tsv | cut -f8 > ids/PRODUCTS/100512538.txt
+grep -F "1005285" amazon_reviews_10k_random_hw4.tsv | cut -f8 > ids/PRODUCTS/1005285.txtls -lh ids/CUSTOMERS/
+ls -lh ids/CUSTOMERS/
+ls -lh ids/PRODUCTS/
+cat ids/CUSTOMERS/10000166.txt 
+nano perm_demo.txt
+mkdir share
+chmod 770 share
+ls -ld share >> perm_demo.txt 
+cd share
+touch file1.txt file2.txt
+mkdir subdir
+cd ..
+ls -l share >> ../perm_demo.txt
+chmod -R 770 share
+ls -l share >> perm_demo.txt 
+ln share/file1.txt share/file1_hard.txt
+ln -s share/file2.txt share/file2_symlink.txt
+ls -li share >> perm_demo.txt
+cat perm_demo.txt 
+ls -l share
+cat perm_demo.txt 
+history > hw04_history.txt
+ls -lh hw04_history.txt 
+head -n 20 hw04_history.txt 
+history -w hw04_history.txt 
